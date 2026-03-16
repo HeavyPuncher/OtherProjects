@@ -15,7 +15,7 @@ while True:
     		print("You made it, you're out of the cave!")
     
     	else:
-    		print("Aaaaaahhhhhh (you fell into a pit hole")
+    		print("Aaaaaahhhhhh, you fell into a pit hole")
     		print("You are dead")
 
     else:
